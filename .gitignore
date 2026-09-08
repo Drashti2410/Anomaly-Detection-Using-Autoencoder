@@ -1,0 +1,32 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+
+
+# Additional ignores requested
+__pycache__/
+*.pyc
+.env
+*.db
+chroma_db/
+data/processed_parquet/
+*.pkl
+.pytest_cache/
+node_modules/
+
