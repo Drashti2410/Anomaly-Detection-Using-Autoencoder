@@ -20,7 +20,7 @@ Thumbs.db
 
 
 # Additional ignores requested
-__pycache__/
+
 *.pyc
 .env
 *.db
